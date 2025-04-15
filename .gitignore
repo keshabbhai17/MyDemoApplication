@@ -17,7 +17,7 @@ local.properties
 question-ai-logo
 Upgrade
 managemanage
-managemanage
+#managemanage
 useruser
 fullfull
 closeclose
@@ -132,7 +132,7 @@ $RECYCLE.BIN/
 *.lnk
 
 ### Gradle ###
-.gradle
+#.gradle
 **/build/
 !src/**/build/
 
